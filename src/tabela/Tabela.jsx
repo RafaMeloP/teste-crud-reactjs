@@ -10,6 +10,7 @@ export default function Tabela(props) {
                     <button>Adicionar</button>
                 </Link>
             </div>
+            
             <table>
                 <thead>
                     <tr>
